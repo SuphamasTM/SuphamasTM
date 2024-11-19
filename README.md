@@ -56,3 +56,4 @@ I am interested in website devolpment and design.
 
 ## 🏆 Certificate
 - Certificate in Web&Mobile Designer in 2023: UI/UX, Figma, +more (2023)
+- Link: https://ude.my/UC-6de5687b-784c-4065-abfb-2d796bfe8d10/
