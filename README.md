@@ -33,7 +33,7 @@ I am interested in website devolpment and design.
 
 ### Project 2: Shopping Cart (Vue.js)
 - Detail: Simple online store website
-- เTechnology: Vue.js, Vuetify
+- Technology: Vue.js, Vuetify
 - Link: https://vue-shopping-cart-phi.vercel.app
 
 ### Project 3: React Search Card Profile
