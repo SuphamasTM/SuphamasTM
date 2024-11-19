@@ -1,65 +1,58 @@
-# 👋 สวัสดีครับ ผม [Your Name]
+# 👋 Hello my name is Suphamas Nueaythong
 
-## 👨‍💻 เกี่ยวกับตัวผม
-ผมเป็นนักพัฒนาซอฟต์แวร์ที่มีความสนใจในการสร้างโซลูชันที่มีประสิทธิภาพและใช้งานง่าย มีประสบการณ์ในการพัฒนาทั้ง frontend และ backend
+## 👨‍💻 About me
+I am interested in website devolpment and design.
 
-## 🛠 ทักษะและเทคโนโลยี
+## 🛠 Skills and Technology
 ### Languages
-- JavaScript/TypeScript
-- Python
-- Java
-- SQL
+- HTML
+- CSS
+- JavaScript
 
 ### Frameworks & Libraries
 - React.js
+- Vue.js
 - Node.js
-- Express.js
-- Django
+- Vuetify
+- Material Ui  
 
 ### Tools & Platforms
+- Visual Studio Code
 - Git
-- Docker
-- AWS
-- MongoDB
+- GitHub
+- Sourcetree
+- Postman 
+- Figma
+- Trello
 
-## 🚀 ผลงานที่ภูมิใจ
-### Project 1: [ชื่อโปรเจค]
-- รายละเอียด: อธิบายสั้นๆ เกี่ยวกับโปรเจค
-- เทคโนโลยีที่ใช้: React, Node.js, MongoDB
-- Link: [GitHub Repository]
-- Demo: [Live Demo Link]
+## 🚀 Workshop
+### Project 1: Shopping Cart (React.js)
+- Detail: Simple online store website
+- Technology: React.js, Material Ui
+- Link: https://react-shopping-cart-three-beta.vercel.app
 
-### Project 2: [ชื่อโปรเจค]
-- รายละเอียด: อธิบายสั้นๆ เกี่ยวกับโปรเจค
-- เทคโนโลยีที่ใช้: Python, Django, PostgreSQL
-- Link: [GitHub Repository]
-- Demo: [Live Demo Link]
+### Project 2: Shopping Cart (Vue.js)
+- Detail: Simple online store website
+- เTechnology: Vue.js, Vuetify
+- Link: https://vue-shopping-cart-phi.vercel.app
 
-## 📈 สถิติ GitHub ของผม
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+### Project 3: React Search Card Profile
+- Detail: Workshop to learn to call API and separate Module.
+- Technology: React.js
+- Link: https://react-exam-beryl.vercel.app
 
-## 📫 ช่องทางการติดต่อ
-- LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
-- Portfolio Website: [Your Website]
+### Project 4: Wash&Dry Mobile Application (Figma)
+- Detail: Design a convenience store application using figma.
+- Technology: Figma
+- Link: https://www.behance.net/gallery/167680425/Wash-Dry-Mobile-Application
 
-## 🎓 การศึกษา
-- ปริญญา[ระดับการศึกษา] สาขา[ชื่อสาขา]
-- มหาวิทยาลัย[ชื่อมหาวิทยาลัย]
-- ปีที่จบ: [ปีที่จบการศึกษา]
+### Project 5: NaYoo - Website Redesign (Figma)
+- Detail: Redesign the real estate website using figma.
+- Technology: Figma
+- Link: https://www.behance.net/gallery/171847765/NaYoo-Wesite-Redesign-(Mobile)
 
-## 💼 ประสบการณ์การทำงาน
-### [ชื่อบริษัท] (เดือน ปี - เดือน ปี)
-ตำแหน่ง: [ชื่อตำแหน่ง]
-- ความรับผิดชอบที่ 1
-- ความรับผิดชอบที่ 2
-- ความรับผิดชอบที่ 3
+## 📫 Contact
+- Email: suphamas.tm@gmail.com
 
-## 🌱 สิ่งที่กำลังเรียนรู้
-- [เทคโนโลยีหรือทักษะที่กำลังศึกษา]
-- [เทคโนโลยีหรือทักษะที่กำลังศึกษา]
-
-## 🏆 ใบรับรองและรางวัล
-- [ชื่อใบรับรองหรือรางวัล] (ปีที่ได้รับ)
-- [ชื่อใบรับรองหรือรางวัล] (ปีที่ได้รับ)
-github-readme-stats.vercel.app
+## 🏆 Certificate
+- Certificate in Web&Mobile Designer in 2023: UI/UX, Figma, +more (2023)
