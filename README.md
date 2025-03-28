@@ -8,13 +8,15 @@ I am interested in website devolpment and design.
 - HTML
 - CSS
 - JavaScript
+- Dart
 
 ### Frameworks & Libraries
 - React.js
 - Vue.js
 - Node.js
 - Vuetify
-- Material Ui  
+- Material Ui
+- Flutter
 
 ### Tools & Platforms
 - Visual Studio Code
