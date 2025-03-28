@@ -22,6 +22,7 @@ I am interested in website devolpment and design.
 - Visual Studio Code
 - Git
 - GitHub
+- GitLab
 - Sourcetree
 - Postman 
 - Figma
