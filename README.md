@@ -24,7 +24,8 @@ I am interested in website devolpment and design.
 - GitHub
 - GitLab
 - Sourcetree
-- Postman 
+- Postman
+- Xcode (IPA build & deploy)
 - Figma
 - Trello
 
