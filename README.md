@@ -30,9 +30,9 @@ I am interested in website devolpment and design.
 - Trello
 
 ## 🚀 Production App
-### This project is now live on the App Store!: Justwash Dashboard
+### Justwash Dashboard - This project is now live on the App Store!
 - Detail: Justwash Dashboard for laundry shop owers using the JustWash payment system.
-- Technology: Dart, Flutter
+- Technology: Dart, Flutter, Xcode
 - Link: https://apps.apple.com/th/app/justwash-dashboard/id6744148275?l=th
 
 ## 🚀 Workshop
