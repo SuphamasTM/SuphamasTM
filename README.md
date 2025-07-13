@@ -45,17 +45,23 @@ I am interested in website devolpment and design.
 - Technology: Vue.js, Vuetify
 - Link: https://vue-shopping-cart-phi.vercel.app
 
-### Project 3: React Search Card Profile
+### Project 3: React Todo-List (React.js + TypeScript)
+- Detail: A minimal and responsive Todo List web application built with React, TypeScript, and Tailwind CSS.
+Users can add, edit, delete, and mark todos as completed.
+- Technology: React.js, TypeScript, Tailwind CSS, Framer Motion
+- Link: https://react-todo-app-olive-three.vercel.app
+
+### Project 4: React Search Card Profile (React.js)
 - Detail: Workshop to learn to call API and separate Module.
 - Technology: React.js
 - Link: https://react-exam-beryl.vercel.app
 
-### Project 4: Wash&Dry Mobile Application (Figma)
+### Project 5: Wash&Dry Mobile Application (Figma)
 - Detail: Design a convenience store application using figma.
 - Technology: Figma
 - Link: https://www.behance.net/gallery/167680425/Wash-Dry-Mobile-Application
 
-### Project 5: NaYoo - Website Redesign (Figma)
+### Project 6: NaYoo - Website Redesign (Figma)
 - Detail: Redesign the real estate website using figma.
 - Technology: Figma
 - Link: https://www.behance.net/gallery/171847765/NaYoo-Wesite-Redesign-(Mobile)
