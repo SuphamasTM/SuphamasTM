@@ -37,18 +37,18 @@ I am interested in website devolpment and design.
 ## 🚀 Workshop
 ### Project 1: Shopping Cart (React.js)
 - Detail: Simple online store website
-- Technology: React.js, Material Ui
+- Technology: React.js and Material Ui
 - Link: https://react-shopping-cart-three-beta.vercel.app
 
 ### Project 2: Shopping Cart (Vue.js)
 - Detail: Simple online store website
-- Technology: Vue.js, Vuetify
+- Technology: Vue.js and Vuetify
 - Link: https://vue-shopping-cart-phi.vercel.app
 
 ### Project 3: React Todo-List (React.js + TypeScript)
 - Detail: A minimal and responsive Todo List web application built with React, TypeScript, and Tailwind CSS.
 Users can add, edit, delete, and mark todos as completed.
-- Technology: React.js, TypeScript, Tailwind CSS, Framer Motion
+- Technology: React.js, TypeScript, Tailwind CSS and Framer Motion
 - Link: https://react-todo-app-olive-three.vercel.app
 
 ### Project 4: React Search Card Profile (React.js)
