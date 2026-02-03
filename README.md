@@ -4,6 +4,16 @@
 I am interested in website devolpment and design.
 
 ## 🛠 Skills and Technology
+### UX/UI Design 
+- User Flow
+- Wireframing
+- Prototyping
+- Interaction Design
+- Responsive Design
+- Visual Design
+- Design Systems
+- Usability Testing 
+
 ### Languages
 - HTML
 - CSS
@@ -19,6 +29,7 @@ I am interested in website devolpment and design.
 - Flutter
 
 ### Tools & Platforms
+- Figma
 - Visual Studio Code
 - Git
 - GitHub
@@ -26,7 +37,6 @@ I am interested in website devolpment and design.
 - Sourcetree
 - Postman
 - Xcode (IPA build & deploy)
-- Figma
 - Trello
 
 ## 🚀 Production App
