@@ -35,36 +35,41 @@ I am interested in website devolpment and design.
 - Technology: Dart, Flutter, Xcode
 
 ## 🚀 Workshop
-### Project 1: Shopping Cart (React.js)
+### Project 1: Justwash App Dashboard (Figma)
+- Detail: Designed a mobile dashboard for laundromat owners to monitor real-time income, machine status, and operations.
+- Technology: Figma
+- Link: https://www.behance.net/gallery/243426495/Justwash-App-Dashboard
+
+### Project 2: NaYoo - Website Redesign (Figma)
+- Detail: Redesigned a real estate website to improve usability, content hierarchy, and mobile responsiveness.
+- Technology: Figma
+- Link: https://www.behance.net/gallery/171847765/NaYoo-Wesite-Redesign-(Mobile)
+
+### Project 3: Wash&Dry Mobile Application (Figma)
+- Detail: Designed a user-friendly laundry app focusing on machine status, usage tracking, and operational clarity.
+- Technology: Figma
+- Link: https://www.behance.net/gallery/167680425/Wash-Dry-Mobile-Application
+  
+### Project 4: Shopping Cart (React.js)
 - Detail: Simple online store website
 - Technology: React.js and Material Ui
 - Link: https://react-shopping-cart-three-beta.vercel.app
 
-### Project 2: Shopping Cart (Vue.js)
+### Project 5: Shopping Cart (Vue.js)
 - Detail: Simple online store website
 - Technology: Vue.js and Vuetify
 - Link: https://vue-shopping-cart-phi.vercel.app
 
-### Project 3: React Todo-List (React.js + TypeScript)
+### Project 6: React Todo-List (React.js + TypeScript)
 - Detail: A minimal and responsive Todo List web application built with React, TypeScript, and Tailwind CSS.
 Users can add, edit, delete, and mark todos as completed.
 - Technology: React.js, TypeScript, Tailwind CSS and Framer Motion
 - Link: https://react-todo-app-olive-three.vercel.app
 
-### Project 4: React Search Card Profile (React.js)
+### Project 7: React Search Card Profile (React.js)
 - Detail: Workshop to learn to call API and separate Module.
 - Technology: React.js
 - Link: https://react-exam-beryl.vercel.app
-
-### Project 5: Wash&Dry Mobile Application (Figma)
-- Detail: Design a convenience store application using figma.
-- Technology: Figma
-- Link: https://www.behance.net/gallery/167680425/Wash-Dry-Mobile-Application
-
-### Project 6: NaYoo - Website Redesign (Figma)
-- Detail: Redesign the real estate website using figma.
-- Technology: Figma
-- Link: https://www.behance.net/gallery/171847765/NaYoo-Wesite-Redesign-(Mobile)
 
 ## 📫 Contact
 - Email: suphamas.tm@gmail.com
