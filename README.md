@@ -1,7 +1,7 @@
 # 👋 Hello my name is Suphamas Nueaythong
 
 ## 👨‍💻 About me
-I am interested in website devolpment and design.
+I am interested in design and website devolpment.
 
 ## 🛠 Skills and Technology
 ### UX/UI Design 
